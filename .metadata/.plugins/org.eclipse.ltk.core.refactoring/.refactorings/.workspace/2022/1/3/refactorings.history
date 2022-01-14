@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;7a0698c74e5469e27ccb6fd0bb4af0474070f2eecbfaae87148d0ffaf91933e3fb03bae74dd6ae693abd154e054a5b7f345fa4ddca7a688b0b45fade29230b5e.zip_expanded&apos;" deleteContents="true" description="Delete resource &apos;7a0698c74e5469e27ccb6fd0bb4af0474070f2eecbfaae87148d0ffaf91933e3fb03bae74dd6ae693abd154e054a5b7f345fa4ddca7a688b0b45fade29230b5e.zip_expanded&apos;" element1="/7a0698c74e5469e27ccb6fd0bb4af0474070f2eecbfaae87148d0ffaf91933e3fb03bae74dd6ae693abd154e054a5b7f345fa4ddca7a688b0b45fade29230b5e.zip_expanded" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1642195936422"/>
+</session>

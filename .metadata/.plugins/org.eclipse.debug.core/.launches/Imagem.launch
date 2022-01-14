@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/7a0698c74e5469e27ccb6fd0bb4af0474070f2eecbfaae87148d0ffaf91933e3fb03bae74dd6ae693abd154e054a5b7f345fa4ddca7a688b0b45fade29230b5e.zip_expanded/JavaApplication17/src/javaapplication17/Imagem.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="javaapplication17.Imagem"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="7a0698c74e5469e27ccb6fd0bb4af0474070f2eecbfaae87148d0ffaf91933e3fb03bae74dd6ae693abd154e054a5b7f345fa4ddca7a688b0b45fade29230b5e.zip_expanded"/>
+</launchConfiguration>
