@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\OneDriveTemp\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2094907235.index
-1895452991.index
